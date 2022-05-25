@@ -1,2 +1,2 @@
 # Intrinsic-Rewards
-personal implementation of the paper "What Can Learned Intrinsic Rewards Capture?"
+personal implementation of "What Can Learned Intrinsic Rewards Capture?"
